@@ -2,4 +2,6 @@
 
 phpinfo();
 
+# fix bug xxxxx
+
 ?>
